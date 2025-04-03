@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-04-03)
+
+<section class="features">
+
+### Features
+
+-   [`912e9e1`](https://github.com/stdlib-js/stdlib/commit/912e9e12ee52689d4680230cca7da8d1464a08e0) - add `stats/base/dists/kumaraswamy/kurtosis` [(#4525)](https://github.com/stdlib-js/stdlib/pull/4525)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3697](https://github.com/stdlib-js/stdlib/issues/3697)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`912e9e1`](https://github.com/stdlib-js/stdlib/commit/912e9e12ee52689d4680230cca7da8d1464a08e0) - **feat:** add `stats/base/dists/kumaraswamy/kurtosis` [(#4525)](https://github.com/stdlib-js/stdlib/pull/4525) _(by Shabareesh Shetty, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Shabareesh Shetty
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
