@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`da17eab`](https://github.com/stdlib-js/stdlib/commit/da17eabd5db7f7aa32a2d39d00f8b53c9cc11495) - **chore:** clean-up _(by Athan Reines)_
 -   [`912e9e1`](https://github.com/stdlib-js/stdlib/commit/912e9e12ee52689d4680230cca7da8d1464a08e0) - **feat:** add `stats/base/dists/kumaraswamy/kurtosis` [(#4525)](https://github.com/stdlib-js/stdlib/pull/4525) _(by Shabareesh Shetty, Philipp Burckhardt, stdlib-bot)_
 
 </details>
@@ -46,8 +47,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Shabareesh Shetty
 
