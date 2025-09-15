@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-14)
+## Unreleased (2025-09-15)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`da17eab`](https://github.com/stdlib-js/stdlib/commit/da17eabd5db7f7aa32a2d39d00f8b53c9cc11495) - **chore:** clean-up _(by Athan Reines)_
 -   [`912e9e1`](https://github.com/stdlib-js/stdlib/commit/912e9e12ee52689d4680230cca7da8d1464a08e0) - **feat:** add `stats/base/dists/kumaraswamy/kurtosis` [(#4525)](https://github.com/stdlib-js/stdlib/pull/4525) _(by Shabareesh Shetty, Philipp Burckhardt, stdlib-bot)_
 
