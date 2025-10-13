@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-15)
+## Unreleased (2025-10-13)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`4a599d7`](https://github.com/stdlib-js/stdlib/commit/4a599d7672902faa05e6dfbe3822a27422337278) - **docs:** replace manual `for` loop in examples [(#8230)](https://github.com/stdlib-js/stdlib/pull/8230) _(by Harsh)_
 -   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`da17eab`](https://github.com/stdlib-js/stdlib/commit/da17eabd5db7f7aa32a2d39d00f8b53c9cc11495) - **chore:** clean-up _(by Athan Reines)_
@@ -49,9 +50,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Harsh
 -   Philipp Burckhardt
 -   Shabareesh Shetty
 
